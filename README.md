@@ -76,7 +76,6 @@ Browse past talks and presentations from our speakers, highlighting the insights
 | NetBox | Johannes Luther | [DDIUG_2021-12_Johannes-Luther_NetBox.pdf](./2021-12/DDIUG_2021-12_Johannes-Luther_NetBox.pdf) |
 | DNS Fragmentation | Carsten Strotmann | [DDIUG_2021-12_Carsten-Strotmann_DNS-Fragmentation.pdf](./2021-12/DDIUG_2021-12_Carsten-Strotmann_DNS-Fragmentation.pdf) |
 | eIDAS | Enrico Entschew | [DDIUG_2021-12_Enrico-Entschew_eIDAS.pdf](./2021-12/DDIUG_2021-12_Enrico-Entschew_eIDAS.pdf) |
-| DHCP Security | Andreas Taudte | [DHCP-Security-Workshop_v1.0.pdf](./2021-12/DHCP-Security-Workshop_v1.0.pdf) |
 
 ---
 
