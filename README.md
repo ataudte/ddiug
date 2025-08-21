@@ -16,6 +16,7 @@ Browse past talks and presentations from our speakers, highlighting the insights
 | NetBox DNS Demo | Peter Eckel | [DDIUG_2025-06_Peter-Eckel_NetBox-DNS.pdf](./2025-06/DDIUG_2025-06_Peter-Eckel_NetBox-DNS.pdf) |
 | DNS Performance | Jörg Backschues | [DDIUG_2025-06_Joerg-Backschues_DNS-Performance.pdf](./2025-06/DDIUG_2025-06_Joerg-Backschues_DNS-Performance.pdf) |
 | DNS rethinked | Ronny Wolf | [DDIUG_2025-06_Ronny-Wolf_DNS-rethinked.pdf](./2025-06/DDIUG_2025-06_Ronny-Wolf_DNS-rethinked.pdf) |
+| DHCP-Relay-Agent | Carsten Strotmann | [DDIUG_2025-06_Carsten-Strotmann_DHCP-Relay-Agent.pdf](./2025-06/DDIUG_2025-06_Carsten-Strotmann_DHCP-Relay-Agent.pdf)
 | SMTP Primer for DNS Admin | Jens Hoffrichter | [DDIUG_2025-06_Jens-Hoffrichter_SMTP-for-DNS-Admins.pdf](./2025-06/DDIUG_2025-06_Jens-Hoffrichter_SMTP-for-DNS-Admins.pdf) |
 
 ---
