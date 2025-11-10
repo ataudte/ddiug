@@ -17,7 +17,6 @@ Browse past talks and presentations from our speakers, highlighting the insights
 | DNS Performance | Jörg Backschues | [download](./2025-06/DDIUG_2025-06_Joerg-Backschues_DNS-Performance.pdf) |
 | DNS rethinked | Ronny Wolf | [download](./2025-06/DDIUG_2025-06_Ronny-Wolf_DNS-rethinked.pdf) |
 | DHCP-Relay-Agent | Carsten Strotmann | [download](./2025-06/DDIUG_2025-06_Carsten-Strotmann_DHCP-Relay-Agent.pdf)
-| SMTP Primer for DNS Admin | Jens Hoffrichter | [download](./2025-06/DDIUG_2025-06_Jens-Hoffrichter_SMTP-for-DNS-Admins.pdf) |
 
 ---
 
@@ -38,7 +37,6 @@ Browse past talks and presentations from our speakers, highlighting the insights
 | Topic | Thanks to | Download |
 |---|---|---|
 | Why DDI needs to change | Ekim Maurer | [download](./2023-06/DDIUG_2023-06_Ekim-Maurer_Why-DDI-needs-to-change.pdf) |
-| Lessons Learned for smooth Transition | Jens Hoffrichter | [download](./2023-06/DDIUG_2023-06_Jens-Hoffrichter_Lessons-learned.pdf) |
 | Intent Driven DDI | Timothy Rooney | [download](./2023-06/DDIUG_2023-06_Timothy-Rooney_Intent-Driven-DDI.pdf) |
 | DNS Abuse Techniques Matrix | Peter Lowe | [download](./2023-06/DDIUG_2023-06_Peter-Lowe_DNS-Abuse-Techniques-Matrix.pdf) |
 | Bizarre and Unusual Uses of DNS | Peter Lowe | [download](./2023-06/DDIUG_2023-06_Peter-Lowe_Bizarre-Unusual-Uses-of-DNS.pdf) |
