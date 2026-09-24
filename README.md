@@ -8,6 +8,16 @@ Browse past talks and presentations from our speakers, highlighting the insights
 
 ---
 
+## 2026-09-24
+
+| Topic | Thanks to | Download |
+|---|---|---|
+| PQC Einführung | Johannes Weber | [download](./2026-09/DDIUG_2026-09_Johannes-Weber_PQC.pdf) |
+| DELEG - Renovierte Wegweiser | Carsten Strotmann | [download](./2026-09/DDIUG_2026-09_Carsten-Strotmann_DELEG.pdf) |
+| DNS over CoAP | Martine Lenders | [download](./2026-09/DDIUG_2026-09_Martine-Lenders_DNS-over-CoAP.pdf) |
+
+---
+
 ## 2025-06-26
 
 | Topic | Thanks to | Download |
